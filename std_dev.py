@@ -29,10 +29,3 @@ def std_dev(list1):
   variance = sum_of_dev / list_len  # take sum of the deviations divided by length
   return (variance ** 0.5)  # returns standard deviation
 
-
-p1 = Person("Kyounmin", 99)
-p2 = Person("Mercedes", 24)
-p3 = Person("Beatrice", 48)
-person_list = [p1,p2,p3]
-answer = std_dev(person_list)
-print(answer)
