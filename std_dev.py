@@ -1,7 +1,7 @@
 # Author: Erik Blackowicz
 # Date: 7/22/20
 # Description: Assignment 6c -Create a person class with private data members of name and age.
-# Calculations include mean and standard deviation, as well as methods to get name and age.
+# Methods include mean and standard deviation, as well as  get_name and get_age methods.
 
 
 class Person:
